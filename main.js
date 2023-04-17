@@ -31,7 +31,6 @@ let nivel = 1
 let vidas = 3
 
 const blocos = []
-
 for (let c = 0; c < contagemDeBlocosEmColuna; c++) {
   blocos[c] = []
   for (let l = 0; l < contagemDeBlocosEmLinha; l++) {
